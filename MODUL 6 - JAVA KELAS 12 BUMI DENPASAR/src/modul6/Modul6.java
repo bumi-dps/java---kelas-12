@@ -6,7 +6,7 @@ package modul6;
 
 /**
  *
- * @author lenovo
+ * @author Acer
  */
 public class Modul6 {
 
